@@ -14,6 +14,7 @@
 {
     // Insert code here to initialize your application
     NSLog(@"GimmeTrow");
+    NSLog(@"OMFG GIMME TROW PLZ");
 }
 
 @end
